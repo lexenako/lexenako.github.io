@@ -65,7 +65,6 @@ export default defineConfigWithTheme<ThemeConfig>({
       { icon: 'github', url: 'https://github.com/lexenako' },
       { icon: 'bilibili', url: 'https://space.bilibili.com/8712004' },
       { icon: 'tw', url: 'https://twitter.com/LexEnako' },
-      { icon: 'github', url: 'https://nezha.lexenako.eu.org' },
     ],
 
     //footer配置
