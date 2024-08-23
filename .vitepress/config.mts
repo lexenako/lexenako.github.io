@@ -48,8 +48,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   sitemap: {
     hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "空想幻夜",
+  description: "空想幻夜",
   themeConfig: {
     // navBar
     menuList: [
@@ -58,14 +58,14 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //banner区配置
-    name: "Sensei's 部落格",
-    welcomeText: 'Hello, VitePress',
-    motto: '何気ない日常で、ほんの少しの奇跡を見つける物語。',
+    name: "空想幻夜",
+    welcomeText: '欢迎你！',
+    motto: '这里什么东西都没有。',
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
-      { icon: 'wechat', url: 'https://weixin.qq.com/' },
+      { icon: 'github', url: 'https://github.com/lexenako' },
+      { icon: 'bilibili', url: 'https://space.bilibili.com/8712004' },
+      { icon: 'tw', url: 'https://twitter.com/LexEnako' },
+      { icon: 'github', url: 'https://nezha.lexenako.eu.org' },
     ],
 
     //footer配置
