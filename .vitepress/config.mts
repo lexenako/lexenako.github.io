@@ -59,7 +59,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     name: "空想幻夜",
-    welcomeText: '欢迎你！',
+    welcomeText: '欢迎',
     motto: '这里什么东西都没有。',
     social: [
       { icon: 'github', url: 'https://github.com/lexenako' },
